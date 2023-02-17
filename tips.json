@@ -3,7 +3,11 @@
   "Data": [
     {
       "title": "使用说明",
-      "content": "<li data-list-item-diff-id="ct-list-item-diff-id-94b331be-de22-4116-a135-a6cd786e75ff"><p data-diff-id="ct-diff-id-bab6558e-46b8-4ada-9e4e-052e5c001021">基本使用</p><ul data-diff-id="ct-diff-id-19333f41-416f-47cb-9847-029064431eaa"><li data-list-item-diff-id="ct-list-item-diff-id-87359b62-42db-4ec6-b010-274baa1f4cc7"><p data-diff-id="ct-diff-id-c8627b3e-604a-42e4-a021-62a045eefe27">必须配置项</p><ul data-diff-id="ct-diff-id-a3e72927-6fa9-4c3b-a066-dc3984c41831"><li data-list-item-diff-id="ct-list-item-diff-id-b861f1f3-634a-41fb-bd96-1a96f70747d9"><p data-diff-id="ct-diff-id-70933857-980a-4698-9a9d-03cdab84f901">扫码需要配置conan参数</p></li><li data-list-item-diff-id="ct-list-item-diff-id-f0abf175-8c42-4199-9b0f-47e1a6e3b972"><p data-diff-id="ct-diff-id-4e6f2835-2c61-40d0-8b74-cb67e24d9998">设备查询需要SSO认证</p></li><li data-list-item-diff-id="ct-list-item-diff-id-eba1c489-3f5a-43c7-9884-848f9fdc95c9"><p data-diff-id="ct-diff-id-e359eab7-6824-4f98-afb0-ba8b8f6c8b5a">需要选取线上环境</p></li></ul></li></ul></li><a href=\"https://km.sankuai.com/page/1334243855\">查看使用文档</a>"
+      "content": "<a>必须配置项</a><br/>
+      <a>扫码需要配置conan参数</a><br/>
+      <a>设备查询需要SSO认证</a><br/>
+      <a>需要选取线上环境</a><br/>
+      <a href=\"https://km.sankuai.com/page/1334243855\">查看使用文档</a>"
     }
   ]
 }
